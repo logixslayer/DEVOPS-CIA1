@@ -7,4 +7,5 @@ else :
     print("the given temperature is cold")
 farh = (temp+1.8)*32
 print("the given temp in farhnheit is : ",farh) 
-print("___")  
+print("___")
+print("hello ")
